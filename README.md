@@ -20,7 +20,7 @@ Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@semenov/eslint-config/next", 
+    "@lemenov/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
